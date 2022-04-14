@@ -1,2 +1,2 @@
 # landing-web-page
-Example __Landing Web Page__
+Example **Landing Web Page**
